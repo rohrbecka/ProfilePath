@@ -13,7 +13,7 @@ let package = Package(
             targets: ["ProfilePath"])
     ],
     dependencies: [
-        .package(url: "https://github.com/realm/SwiftLint", revision: "8d4ebcc723fb5b8c13bd67227b640f5675943309")
+        .package(url: "https://github.com/realm/SwiftLint", revision: "a876e860ee0e166a05428f430888de5d798c0f8d")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.

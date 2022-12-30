@@ -14,7 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jpsim/SourceKitten.git",
       "state" : {
-        "revision" : "a9e6df65d8e31e0fa6e8a05ffe40ecd54a645871"
+        "revision" : "fc12c0f182c5cf80781dd933b17a82eb98bd7c61",
+        "version" : "0.33.1"
       }
     },
     {
@@ -22,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-argument-parser.git",
       "state" : {
-        "revision" : "9f39744e025c7d377987f30b03770805dcb0bcd1",
-        "version" : "1.1.4"
+        "revision" : "fddd1c00396eed152c45a46bea9f47b98e59301d",
+        "version" : "1.2.0"
       }
     },
     {
@@ -31,7 +32,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-syntax.git",
       "state" : {
-        "revision" : "7eb7c76540b1706fbe1fd8c26b627ba00530797b"
+        "revision" : "76d01195182593ff34f5ada1ab0910fae190fc9c"
       }
     },
     {
@@ -39,7 +40,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/realm/SwiftLint",
       "state" : {
-        "revision" : "8d4ebcc723fb5b8c13bd67227b640f5675943309"
+        "revision" : "a876e860ee0e166a05428f430888de5d798c0f8d"
       }
     },
     {
